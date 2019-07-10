@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header img{
+    width: 300px;
+   height: 100px;
+   margin-left:100px; 
+}
+
+header{
+    border-bottom: solid 5px whitesmoke;
+}
+
+.PrivacyPolicy{
+    width: 980px;
+    margin: 0 auto;
+}
